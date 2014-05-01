@@ -13,19 +13,15 @@ Melbourne is again taking part in the next global RHoK event in December this ye
 
 # RHoK Global Hackathons
 
-The next global hack weekend will be on December 7-8, 2013. We are currently recruiting new problem owners and hackers, and will have an information session in November. Sign up to our <a href="http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne">Meetup group</a> to keep up to date with the latest news and events.
+The next global hack weekend will be on May 31 and June 1, 2014. We are currently recruiting new problem owners and hackers, and will have an information session in on Tuesday 13 May, 2014. Sign up to our <a href="http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne">Meetup group</a> to keep up to date with the latest news and events.
 
-# June 2013 Hackathon
 
-See our pre-event Press Release <a href="/attachments/press-release-june-2013.pdf">here</a>.
-Our post-event Press Release is <a href="/attachments/post-event-press-release-6-june-2013.pdf">here</a>.
-
-RHoK Melbourne was located at Swinburne University Hawthorn, in the TD building.  
+RHoK Melbourne was located at Swinburne University Hawthorn, in the AGSE building.
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;ll=-37.820136,145.03899&amp;spn=0,0&amp;t=m&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;ll=-37.820136,145.03899&amp;spn=0,0&amp;t=m&amp;source=embed" style="color:#0000FF;text-align:left">TD Building, Swinburne University</a> in a larger map</small> 
 
-Here's an outline of how the RHOK Melbourne hackathon ran in June. We kept most of the time for actual development, and the speechifying and admin to a bare minimum.  The problems we worked on are on the "Problems" page.
+Here's an outline of how the RHOK Melbourne hackathon will run in June. We'll keet most of the time for actual development, and the speechifying and admin to a bare minimum.  The challenges and problems people will be pitching to be worked will be updated on "Problems" page.
 
-## Saturday June 1st
+## Saturday 31 May
 
 * 9.00 – 9.30 Get set up, and ready for 2 great days
 * 9.30 – 9.45 Welcome and administrivia
@@ -34,11 +30,11 @@ Here's an outline of how the RHOK Melbourne hackathon ran in June. We kept most 
 * 19.00 – 20.00 Dinner (on us)
 * 20.00 – 02.00 more time to design and develop
 
-We'll have light snacks, fruit, drinks and the like on hand to keep your blood sugar levels up. There are many great local cafes, restaurants and stores around to grab a more substantial lunch  
+We'll have light snacks, fruit, drinks and the like on hand to keep your blood sugar levels up. There are many great local cafes, restaurants and stores around to grab a more substantial lunch. 
 
-You can work as late as 2.00am, or head home a little earlier to catch up on some sleep
+You can work as late as 11.00pm, or head home a little earlier to catch up on some sleep
 
-## Sunday June 2nd
+## Sunday June 1
 
 * 8.00 – 13.00 Coding continues
 * 14.00 Time to down tools
